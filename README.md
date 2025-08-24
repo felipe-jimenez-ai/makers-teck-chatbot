@@ -2,7 +2,9 @@
 
 This repository contains the source code for the "Makers Tech AI Inventory Assistant," a proof-of-concept chatbot designed to provide real-time, natural language answers to customer queries about product inventory.
 
-This project was built to demonstrate how a modern AI-powered solution can enhance customer experience and provide instant, accurate information, directly driven by the company's live inventory database. The 5-minute video demo showcasing this application can be found [here](YOUR_VIDEO_LINK_HERE - *You will add this later*).
+This project was built to demonstrate how a modern AI-powered solution can enhance customer experience and provide instant, accurate information, directly driven by the company's live inventory database. Here is the 5-minute video demo showcasing this application.
+
+https://github.com/user-attachments/assets/178f5fe6-463e-4f65-b5da-bff7216ef56a
 
 ## ✨ Core Features
 
